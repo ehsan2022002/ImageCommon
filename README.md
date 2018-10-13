@@ -1,2 +1,4 @@
 # ImageCommon
-come common works with openCV , including auto crop. 
+some common works with openCV , 
+including auto crop. 
+face detect ... 
